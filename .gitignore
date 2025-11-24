@@ -123,4 +123,5 @@ venv.bak/
 macros_private.py
 
 # exp files
-robomimic/exps*/
+robomimic/expspapers
+robomimic/expspaper*
